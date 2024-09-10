@@ -1,5 +1,4 @@
 # Amazon-Prime-Dashboard
 
-# Amazon-Prime-Dashboard
 
-![Amazon Prime Dashboard](Amazon BIDashboard.png)
+![Amazon Prime Dashboard](Amazon-Prime-Dashboard/Amazon BIDashboard.png)
