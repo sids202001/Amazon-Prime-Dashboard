@@ -1,10 +1,6 @@
-# Amazon-Prime-Dashboard
-
-![Prime Video Dashboard Image](https://github.com/user-attachments/assets/7cd2c731-c148-459a-aba0-038b211b7e6b)
-
 ## Project Title
 
-**Prime Insights: A Power BI Dashboard for Amazon Prime Video Content Analysis**
+**Amazon Prime Insights: A Power BI Dashboard for Amazon Prime Video Content Analysis**
 
 ## Project Overview
 
@@ -18,4 +14,7 @@
 ## Tools Used
 
 - **Power BI:** Utilized for crafting dynamic visualizations and integrating complex datasets for this dashboard.
+
+
+![Prime Video Dashboard Image](https://github.com/user-attachments/assets/7cd2c731-c148-459a-aba0-038b211b7e6b)
 
